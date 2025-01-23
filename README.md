@@ -1,11 +1,10 @@
-#Demand Forecasting for Retail Stores
+# Demand Forecasting for Retail Stores
 
-##This project demonstrates the implementation of a demand forecasting system for retail stores using Python. The project features a machine learning-based system where:
+## This project demonstrates the implementation of a demand forecasting system for retail stores using Python. The project features a machine learning-based system where:
 
 - Historical sales data is collected, cleaned, and prepared for modeling.
 - Machine learning models are trained to predict future product demand based on the data.
 - The predictions enable stores to optimize inventory levels, minimize costs, and improve customer satisfaction.
-- This project provides a practical application of data science and machine learning techniques to solve real-world challenges in inventory management and supply chain optimization.
 
 This project provides a practical application of data science and machine learning techniques to solve real-world challenges in inventory management and supply chain optimization.
 
