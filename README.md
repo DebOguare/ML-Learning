@@ -26,9 +26,9 @@ Advanced feature engineering and model fine-tuning may be required for highly ac
 External factors like unexpected events or economic changes may impact the accuracy of predictions.
 
 ## How It Works
-Data Preprocessing: The data is cleaned and transformed to create meaningful features for modeling.
-Model Training: Machine learning models are trained on historical data to learn demand patterns.
-Demand Prediction: The trained model predicts future demand, enabling stores to make informed decisions about inventory management.
+1. Data Preprocessing: The data is cleaned and transformed to create meaningful features for modeling.
+2. Model Training: Machine learning models are trained on historical data to learn demand patterns.
+3. Demand Prediction: The trained model predicts future demand, enabling stores to make informed decisions about inventory management.
 
 ## Resources
 1. https://www.kaggle.com/datasets/aswathrao/demand-forecasting
